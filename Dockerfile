@@ -1,4 +1,4 @@
-FROM ubuntu:17.10
+FROM ubuntu:18.10
 
 RUN apt-get update && apt-get install -y curl build-essential git
 
